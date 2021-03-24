@@ -7,6 +7,7 @@ Para o desenvolvimento foram seguidos alguns requisitos visando a aprovação do
   Para garantir a qualidade do código e de forma mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento nós utilizamos neste projeto o linter 'ESLint'. Para rodar o linter localmente no seu projeto.
 </p>
 
+Veja o projeto [aqui](https://lenakirara.github.io/lessons-learned/)
 
 ## Requisitos
 
