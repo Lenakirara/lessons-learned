@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(253, 251, 251);
+    padding-top: 10%;
+  }
+  
+  #cabecalho {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100px;
+    background-color: palegreen;
+  }
+  
+  #cabecalho h1 {
+    font-family: Domine, serif;
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+    text-shadow: 2px -2px silver;
+    letter-spacing: 2px;
+  }
+  
+  .nav-menu {
+    padding-left: 40%;
+    padding-top: 1%;
+  }
+  
+  .menu ul li {
+    display: inline-block;
+    padding-right: 20px;
+  }
+  
+  .menu ul li a {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+  }
+  
+  .menu a:hover {
+    color: sandybrown;
+  }
+  
+  #minha_foto {
+    width: 12em;
+    padding: 1em 2em 2em;
+  
+  }
+  
+  /* margin-left -> corrigindo posição do BG-C */
+  #about {
+    display: inline-block;
+    margin-left: 5%;
+  }
+  
+  .container-lesson h2 {
+    font-family: Domine, serif;
+    color: palegreen;
+    text-shadow: 2px -2px gray;
+    margin-bottom: 0.5em;
+    text-align: center;
+    padding-top: 4%;
+    letter-spacing: 2px;
+  }
+  
+  .container-learning h2 {
+    font-family: Domine, serif;
+    color: palegreen;
+    text-shadow: 2px -2px gray;
+    margin-bottom: 0.5em;
+    text-align: center;
+    padding-top: 4%;
+    letter-spacing: 2px;
+  }
+  
+  #about h2 {
+    font-family: Domine, serif;
+    color: palegreen;
+    text-shadow: 2px -2px gray;
+    margin-bottom: 0.5em;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  
+  .header-about img {
+    float: left;
+    margin-left: 15%;
+  }
+  
+  .header-about p {
+    text-align: justify;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 5%;
+    line-height: 1.2em;
+  }
+  
+  .container {
+    background-color: rgb(225, 241, 228);
+    width: 90%;
+    padding: 10px;
+  }
+  
+  #container-lesson {
+    padding-top: 5%;
+  }
+  
+  .table-lesson {
+    border: 1px solid black;
+    border-spacing: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .table-lesson td {
+    border: 1px solid black;
+    padding: 20px 90px;
+  }
+  
+  .learned-lesson {
+    font-size: 1.4em;
+  }
+  
+  .container-learning {
+    background-color: rgb(225, 241, 228);
+    width: 90%;
+    margin-top: 25px;
+    padding-bottom: 25px;
+  }
+  
+  #learning {
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+  
+  }
+  
+  .lado-esquerdo {
+    text-align: justify;
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+  
+  }
+  
+  .lado-direito {
+    text-align: justify;
+    float: right;
+    width: 40%;
+    padding-right: 25px;
+  }
+  
+  #rodape {
+    background-color: silver;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: palegreen;
+    text-shadow: 2px 2px black;
+  }
+  
