@@ -9,12 +9,6 @@ Para o desenvolvimento foram seguidos alguns requisitos visando a aprovação do
 
 :green_heart: Confira o resultado do projeto [aqui](https://lenakirara.github.io/lessons-learned/)
 
-## Antes de iniciar
-
-Crie um Fork desse projeto. Siga esse [tutorial](https://guides.github.com/activities/forking/).
-Após o fork, clone o repositório criado para o seu computador.
-Não se esqueça de rodar `npm instal`.
-
 ## Requisitos
 
 1. Adicione uma cor de fundo específica para a página
