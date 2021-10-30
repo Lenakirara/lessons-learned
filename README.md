@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao projeto Lesson Learned
+# Bem-vindo(a) ao projeto Lessons Learned
 
 <p>Criamos durante o curso de desenvolvedor web na trybe um site que contenha o que foi aprendido no Bloco 03. <br>
 O site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.<br>
